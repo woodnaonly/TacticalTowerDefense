@@ -1,0 +1,6 @@
+{
+  "name": "堡垒防线 · 战术塔防",
+  "description": "网格战术塔防游戏，包含多地形地图、四类协同炮塔、三阶升级系统与多波次敌人攻防。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
